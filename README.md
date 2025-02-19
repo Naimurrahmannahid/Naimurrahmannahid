@@ -12,7 +12,8 @@ His expertise lies in developing aesthetically appealing and functional websites
 ✅ **WooCommerce (E-commerce) Setup**  
 ✅ **SEO-Optimized & Responsive Design**  
 ✅ **Speed Optimization & Performance Enhancement**  
-✅ **Security & Maintenance Services**  
+✅ **Security & Maintenance Services**
+> **Note: After Ending Project 1 Months Free Support**
 
 ## 🛠️ Technical Skills
 - **Languages & Tools:** HTML, CSS, JavaScript, PHP  
@@ -28,12 +29,16 @@ His expertise lies in developing aesthetically appealing and functional websites
 ✔ **Fully Customized & Client-Oriented Solutions**  
 ✔ **24/7 Support & Communication**  
 
+## 🛡️ Support & Maintenance
+**Note:** After project completion, I provide **1 month of free support** to ensure smooth performance and address any minor issues.  
+
 ## 📞 Contact Me
-📧 **Email:** contact@wordpressnaimur.com  
+📧 **Email:** support@wordpressnaimur.com  
 🌐 **Website:** [WordPress Naimur](https://wordpressnaimur.com)  
 💼 **Freelancing Profiles:**  
 🔹 [Fiverr](https://www.fiverr.com/wordpressnaimur)  
 🔹 [Upwork](https://www.upwork.com/freelancers/~01f469b3013785c827) 
+<br>
 🔹 [Lifemind BD](https://www.lifemindbd.com/)  
 
 > **💡 Looking for a professional WordPress website? Let’s build something amazing together! Hire me today!**
