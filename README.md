@@ -5,6 +5,8 @@ Naimur Rahman Nahid is a skilled and dedicated WordPress developer with **4 year
 
 His expertise lies in developing aesthetically appealing and functional websites that provide seamless user experiences. Whether it's **theme customization, plugin development, WooCommerce integration, or website optimization**, Nahid delivers outstanding results tailored to client requirements.
 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
 ## 🎯 Services Offered
 ✅ **Custom WordPress Website Development**  
 ✅ **Theme Customization & Development**  
