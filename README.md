@@ -1,6 +1,5 @@
-# Naimur Rahman Nahid - WordPress Developer
 ![Web Developer](https://www.nijerinfobd.com/wp-content/uploads/2025/02/Naimur-Rahman-Nahid.png)
-## 📌 About Me
+# Naimur Rahman Nahid - WordPress Developer
 Naimur Rahman Nahid is a skilled and dedicated WordPress developer with **4 years of experience** in crafting high-quality websites. With a strong presence on top freelancing platforms like **Fiverr, Upwork, and Kwork**, Nahid has successfully completed **200+ projects**, ensuring client satisfaction with professional-grade web solutions.
 
 His expertise lies in developing aesthetically appealing and functional websites that provide seamless user experiences. Whether it's **theme customization, plugin development, WooCommerce integration, or website optimization**, Nahid delivers outstanding results tailored to client requirements.
