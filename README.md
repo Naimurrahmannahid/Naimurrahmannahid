@@ -1,5 +1,4 @@
 ![Naimur Rahman Nahid](https://github.com/user-attachments/assets/c01d5dae-71d8-4d5a-816b-4ffbd21fe29f)
-![Web Developer](https://drive.google.com/file/d/17_YgFdSUWO2qFuQo4bSDlOCnuCCFZbRq/view?usp=sharing) 
 # Naimur Rahman Nahid - WordPress Developer
 
 Naimur Rahman Nahid is a skilled and dedicated WordPress developer with **4 years of experience** in crafting high-quality websites. With a strong presence on top freelancing platforms like **Fiverr, Upwork, and Kwork**, Nahid has successfully completed **200+ projects**, ensuring client satisfaction with professional-grade web solutions.
