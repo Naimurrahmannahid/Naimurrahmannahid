@@ -43,7 +43,7 @@ His expertise lies in developing aesthetically appealing and functional websites
 
 ## 📞 Contact Me
 📧 **Email:** support@wordpressnaimur.com  
-🌐 **Website:** [WordPress Naimur](https://wordpressnaimur.com)  
+🌐 **Website:** [WordPress Naimur](https://naimurrahmannahid.com)  
 💼 **Freelancing Profiles:**  
 🔹 [Fiverr](https://www.fiverr.com/wordpressnaimur)  
 🔹 [Upwork](https://www.upwork.com/freelancers/~01f469b3013785c827) 
