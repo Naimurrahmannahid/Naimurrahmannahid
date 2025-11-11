@@ -42,7 +42,7 @@ His expertise lies in developing aesthetically appealing and functional websites
 **Note:** After project completion, I provide **1 month of free support** to ensure smooth performance and address any minor issues.  
 
 ## 📞 Contact Me
-📧 **Email:** support@wordpressnaimur.com  
+📧 **Email:** support@naimurrahmannahid.com  
 🌐 **Website:** [WordPress Naimur](https://naimurrahmannahid.com)  
 💼 **Freelancing Profiles:**  
 🔹 [Fiverr](https://www.fiverr.com/wordpressnaimur)  
