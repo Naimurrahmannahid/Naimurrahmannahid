@@ -39,7 +39,7 @@
 
 <br>
 
-## The Short Version
+## <img src="assets/icons/about.svg" width="30" height="30" align="top" alt=""> The Short Version
 
 I am **Naimur Rahman Nahid**, a **WordPress developer and full-stack web developer** from **Dhaka, Bangladesh**.
 
@@ -49,7 +49,7 @@ When I am not building for clients, I am shipping my own products. Three of my p
 
 <br>
 
-## GitHub Activity
+## <img src="assets/icons/activity.svg" width="30" height="30" align="top" alt=""> GitHub Activity
 
 <p align="center"><i>Code does not lie. This is what the work looks like, updated automatically.</i></p>
 
@@ -87,121 +87,186 @@ When I am not building for clients, I am shipping my own products. Three of my p
 
 <br>
 
-## By the Numbers
+## <img src="assets/icons/numbers.svg" width="30" height="30" align="top" alt=""> By the Numbers
 
 <table align="center">
   <tr>
-    <td align="center" width="25%"><h1><!--YEARS-->4<!--/YEARS-->+</h1><b>Years building</b><br>since Nov 2021</td>
-    <td align="center" width="25%"><h1>300+</h1><b>Projects</b><br>delivered</td>
-    <td align="center" width="25%"><h1>10+</h1><b>Countries</b><br>with clients</td>
-    <td align="center" width="25%"><h1>3</h1><b>Plugins</b><br>on WordPress.org</td>
+    <td align="center" width="25%">
+      <img src="assets/icons/n-years.svg" width="44" height="44" alt="">
+      <h1><!--YEARS-->4<!--/YEARS-->+</h1>
+      <b>Years building</b><br><sub>since Nov 2021</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="assets/icons/n-projects.svg" width="44" height="44" alt="">
+      <h1>300+</h1>
+      <b>Projects</b><br><sub>delivered</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="assets/icons/n-countries.svg" width="44" height="44" alt="">
+      <h1>10+</h1>
+      <b>Countries</b><br><sub>with clients</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="assets/icons/n-plugins.svg" width="44" height="44" alt="">
+      <h1>3</h1>
+      <b>Plugins</b><br><sub>on WordPress.org</sub>
+    </td>
   </tr>
 </table>
 
 <br>
 
-## What I Build
+## <img src="assets/icons/build.svg" width="30" height="30" align="top" alt=""> What I Build
 
-| If you need... | I build |
-|---|---|
-| **A WordPress site that does more than show pages** | Custom themes, plugins, hooks, admin tools and integrations |
-| **A WooCommerce store that fits your business** | Custom checkout, My Account, order and payment flows, digital products |
-| **A feature no plugin does quite right** | A custom plugin, built to WordPress.org standards |
-| **A frontend that feels like an app** | Headless WordPress with Next.js, WPGraphQL and REST APIs |
-| **A tool to run your business** | Dashboards, licensing and API-key systems, booking systems, SaaS apps |
-| **A faster site that ranks better** | Core Web Vitals, speed optimization and technical SEO |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/icons/f-wordpress.svg" width="40" height="40" alt="">
+      <h3>WordPress Engineering</h3>
+      <sub><b>For:</b> sites that need to do more than show pages</sub><br><br>
+      Custom themes, plugins, hooks and filters, admin tools and third-party integrations.
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/icons/f-woo.svg" width="40" height="40" alt="">
+      <h3>WooCommerce Development</h3>
+      <sub><b>For:</b> stores that need to fit the business</sub><br><br>
+      Custom checkout, My Account, order and payment flows, digital products and business rules.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/icons/f-plugin.svg" width="40" height="40" alt="">
+      <h3>Custom Plugin Development</h3>
+      <sub><b>For:</b> features no plugin does quite right</sub><br><br>
+      Production-ready plugins built to WordPress.org standards and easy to maintain.
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/icons/f-headless.svg" width="40" height="40" alt="">
+      <h3>Headless WordPress</h3>
+      <sub><b>For:</b> frontends that should feel like an app</sub><br><br>
+      WordPress or WooCommerce backend, Next.js frontend, WPGraphQL and REST APIs.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/icons/f-saas.svg" width="40" height="40" alt="">
+      <h3>SaaS & Custom Platforms</h3>
+      <sub><b>For:</b> tools that run the business</sub><br><br>
+      Dashboards, licensing and API-key systems, booking systems and internal tools.
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/icons/f-speed.svg" width="40" height="40" alt="">
+      <h3>Performance & Technical SEO</h3>
+      <sub><b>For:</b> sites that should load fast and rank better</sub><br><br>
+      Core Web Vitals, speed optimization, clean markup and on-page technical SEO.
+    </td>
+  </tr>
+</table>
 
 <br>
 
-## Plugins Already Running on Real Stores
+## <img src="assets/icons/plugins.svg" width="30" height="30" align="top" alt=""> Plugins Already Running on Real Stores
 
 These are not demos. They are free, public and listed on the official WordPress.org directory.
 <br>
 **[See all my plugins on WordPress.org](https://profiles.wordpress.org/naimurrahmannahid/)**
 
-### Naimur Email OTP Verification for WooCommerce
-`WordPress` `WooCommerce` `PHP` `Authentication`
-
-> **The problem:** fake and mistyped email addresses at signup.
->
-> **The fix:** customers confirm their email with a one-time password before an account is created. Includes custom email templates, Google reCAPTCHA and Cloudflare Turnstile support, activity logs and a responsive OTP modal.
-
-**[View on WordPress.org](https://wordpress.org/plugins/naimur-email-otp-for-woocommerce/)**
-
-### Naimur Courier Ratio Checker
-`WordPress` `WooCommerce` `PHP` `API Integration`
-
-> **The problem:** Cash on Delivery orders that never get accepted, a costly issue for Bangladeshi eCommerce.
->
-> **The fix:** checks a buyer's courier delivery history by phone number, shows success rates and order-level risk alerts, and can hide Cash on Delivery for high-risk buyers automatically.
-
-**[View on WordPress.org](https://wordpress.org/plugins/naimur-courier-ratio-checker/)**
-
-### Naimur Edit My Account Page for WooCommerce
-`WordPress` `WooCommerce` `PHP` `UI/UX`
-
-> **The problem:** the default WooCommerce My Account page looks dated.
->
-> **The fix:** a modern card-based dashboard with a gradient sidebar and icon navigation, responsive on every device.
-
-**[View on WordPress.org](https://wordpress.org/plugins/naimur-edit-my-account-page-for-woocommerce/)**
+<table>
+  <tr>
+    <td>
+      <h3>Naimur Email OTP Verification for WooCommerce</h3>
+      <code>WordPress</code> <code>WooCommerce</code> <code>PHP</code> <code>Authentication</code>
+      <br><br>
+      <b>The problem:</b> fake and mistyped email addresses at signup.<br>
+      <b>The fix:</b> customers confirm their email with a one-time password before an account is created. Includes custom email templates, Google reCAPTCHA and Cloudflare Turnstile support, activity logs and a responsive OTP modal.
+      <br><br>
+      <a href="https://wordpress.org/plugins/naimur-email-otp-for-woocommerce/"><img src="https://img.shields.io/badge/VIEW_ON_WORDPRESS.ORG-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="View Naimur Email OTP Verification for WooCommerce on WordPress.org"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Naimur Courier Ratio Checker</h3>
+      <code>WordPress</code> <code>WooCommerce</code> <code>PHP</code> <code>API Integration</code>
+      <br><br>
+      <b>The problem:</b> Cash on Delivery orders that never get accepted, a costly issue for Bangladeshi eCommerce.<br>
+      <b>The fix:</b> checks a buyer's courier delivery history by phone number, shows success rates and order-level risk alerts, and can hide Cash on Delivery for high-risk buyers automatically.
+      <br><br>
+      <a href="https://wordpress.org/plugins/naimur-courier-ratio-checker/"><img src="https://img.shields.io/badge/VIEW_ON_WORDPRESS.ORG-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="View Naimur Courier Ratio Checker on WordPress.org"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Naimur Edit My Account Page for WooCommerce</h3>
+      <code>WordPress</code> <code>WooCommerce</code> <code>PHP</code> <code>UI/UX</code>
+      <br><br>
+      <b>The problem:</b> the default WooCommerce My Account page looks dated.<br>
+      <b>The fix:</b> a modern card-based dashboard with a gradient sidebar and icon navigation, responsive on every device.
+      <br><br>
+      <a href="https://wordpress.org/plugins/naimur-edit-my-account-page-for-woocommerce/"><img src="https://img.shields.io/badge/VIEW_ON_WORDPRESS.ORG-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="View Naimur Edit My Account Page for WooCommerce on WordPress.org"></a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-## Beyond the Plugins: My Own Products
+## <img src="assets/icons/products.svg" width="30" height="30" align="top" alt=""> Beyond the Plugins: My Own Products
 
-### Naimur Dev Store
-`Digital Products` `WordPress Plugins` `Themes`
-
-Where my plugins, themes and developer tools are sold and supported.
-
-**[Explore Naimur Dev Store](https://www.naimurdevstore.com/)**
-
-### License & API Key Management Panel
-`SaaS` `Licensing` `API`
-
-Every paid product needs a way to issue, validate and manage licenses. I built my own SaaS panel for it.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Naimur Dev Store</h3>
+      <code>Digital Products</code> <code>Plugins</code> <code>Themes</code>
+      <br><br>
+      Where my plugins, themes and developer tools are sold and supported.
+      <br><br>
+      <a href="https://www.naimurdevstore.com/"><img src="https://img.shields.io/badge/EXPLORE_THE_STORE-B45309?style=for-the-badge" alt="Explore Naimur Dev Store"></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>License & API Key Panel</h3>
+      <code>SaaS</code> <code>Licensing</code> <code>API</code>
+      <br><br>
+      Every paid product needs a way to issue, validate and manage licenses. I built my own SaaS panel for it.
+    </td>
+  </tr>
+</table>
 
 <!--
   Selected GitHub repositories:
-  Add 2-4 of your strongest public repositories here using the same format.
-
-  ### Repository Name
-  `Tech` `Tech` `Tech`
-  > **The problem:** ...
-  >
-  > **The fix:** ...
-  **[View repository](https://github.com/Naimurrahmannahid/REPO-NAME)** | **[Live demo](https://example.com)**
+  Add 2-4 of your strongest public repositories here, as another table row in the same card style.
 -->
 
 <br>
 
-## When WordPress Alone Is Not Enough
+## <img src="assets/icons/beyond.svg" width="30" height="30" align="top" alt=""> When WordPress Alone Is Not Enough
 
 Page builders are great until the project outgrows them. That is where most of my interesting work happens:
 
-- **Headless WordPress / WooCommerce** as the backend, **Next.js** as the frontend
-- Data flowing through **WPGraphQL** and the **WordPress REST API**
-- Custom **login, account and session flows**
-- **Webhooks and on-demand revalidation** so content updates go live instantly
-- **Payment, order and digital product delivery** built around the business, not the other way round
-- **Dashboards and SaaS apps**, including Supabase-backed tools
-- **Third-party integrations**: courier services, email delivery, CAPTCHA, payment gateways
+| Layer | What I work with |
+|---|---|
+| **Architecture** | Headless WordPress / WooCommerce backend with a Next.js frontend |
+| **Data** | WPGraphQL and the WordPress REST API |
+| **Accounts** | Custom login, account and session flows |
+| **Sync** | Webhooks and on-demand revalidation so updates go live instantly |
+| **Commerce** | Payment, order and digital product delivery workflows |
+| **Apps** | Dashboards and SaaS apps, including Supabase-backed tools |
+| **Integrations** | Courier services, email delivery, CAPTCHA, payment gateways |
 
 <br>
 
-## How I Keep Code Clean
+## <img src="assets/icons/clean.svg" width="30" height="30" align="top" alt=""> How I Keep Code Clean
 
-- Written against the **WordPress Coding Standards**
-- Secure by default: **nonces, capability checks, sanitized input, escaped output**
-- **Translation-ready** with proper text domains
-- Settings stored through **WordPress APIs**, never hardcoded
-- Scripts and styles loaded **only on the pages that need them**
-- Readable, documented code that the next developer will not curse at
+| Practice | In detail |
+|---|---|
+| **Standards** | Written against the WordPress Coding Standards |
+| **Security** | Nonces, capability checks, sanitized input, escaped output |
+| **i18n** | Translation-ready with proper text domains |
+| **Settings** | Stored through WordPress APIs, never hardcoded |
+| **Performance** | Scripts and styles loaded only on the pages that need them |
+| **Maintainability** | Readable, documented code the next developer will not curse at |
 
 <br>
 
-## From Brief to Launch
+## <img src="assets/icons/process.svg" width="30" height="30" align="top" alt=""> From Brief to Launch
 
 | Step | What happens |
 |:---:|---|
@@ -214,51 +279,61 @@ Page builders are great until the project outgrows them. That is where most of m
 
 <br>
 
-## My Toolbox
+## <img src="assets/icons/toolbox.svg" width="30" height="30" align="top" alt=""> My Toolbox
 
-**Frontend**
-<br>
-<img src="https://img.shields.io/badge/HTML5-C2410C?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1D4ED8?style=for-the-badge&logo=css&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript">
-<img src="https://img.shields.io/badge/Next.js-475569?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/Tailwind_CSS-0E7490?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+<p align="center"><b>Frontend</b></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/stack/frontend-dark.svg">
+    <img src="assets/stack/frontend-light.svg" alt="Frontend: HTML5, CSS3, JavaScript, Next.js, Tailwind CSS" height="96">
+  </picture>
+</p>
 
-**Backend & APIs**
-<br>
-<img src="https://img.shields.io/badge/PHP-5B4B8A?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-<img src="https://img.shields.io/badge/WooCommerce-7F54B3?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
-<img src="https://img.shields.io/badge/REST_API-475569?style=for-the-badge" alt="REST API">
-<img src="https://img.shields.io/badge/GraphQL-BE185D?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
-<img src="https://img.shields.io/badge/WPGraphQL-0F766E?style=for-the-badge" alt="WPGraphQL">
+<p align="center"><b>Backend & APIs</b></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/stack/backend-dark.svg">
+    <img src="assets/stack/backend-light.svg" alt="Backend and APIs: PHP, WordPress, WooCommerce, REST API, GraphQL, WPGraphQL" height="96">
+  </picture>
+</p>
 
-**Platforms & Data**
-<br>
-<img src="https://img.shields.io/badge/Supabase-15803D?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-<img src="https://img.shields.io/badge/Shopify-4D7C0F?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify">
-<img src="https://img.shields.io/badge/Git-C2410C?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-475569?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<p align="center"><b>Platforms & Data</b></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/stack/platforms-dark.svg">
+    <img src="assets/stack/platforms-light.svg" alt="Platforms and data: Supabase, Shopify, Git, GitHub" height="96">
+  </picture>
+</p>
 
-**WordPress Builders**
-<br>
-<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-<img src="https://img.shields.io/badge/Divi-6D28D9?style=for-the-badge" alt="Divi">
-<img src="https://img.shields.io/badge/WPBakery-0369A1?style=for-the-badge" alt="WPBakery">
-
-<br>
-
-## Why Clients Come Back
-
-- **Built for production,** not just for the demo
-- **One focused solution** instead of five plugins fighting each other
-- **Speed is part of the plan,** not an afterthought
-- **You always know where the project stands**
-- **I do not disappear after launch**
+<p align="center"><b>WordPress Builders</b></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/stack/builders-dark.svg">
+    <img src="assets/stack/builders-light.svg" alt="WordPress builders: Elementor, Divi, WPBakery" height="96">
+  </picture>
+</p>
 
 <br>
 
-## Right Now I Am Working On
+## <img src="assets/icons/why.svg" width="30" height="30" align="top" alt=""> Why Clients Come Back
+
+<table>
+  <tr>
+    <td width="50%"><b>Built for production</b><br><sub>Not just for the demo.</sub></td>
+    <td width="50%"><b>One focused solution</b><br><sub>Instead of five plugins fighting each other.</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><b>Speed is part of the plan</b><br><sub>Not an afterthought.</sub></td>
+    <td width="50%"><b>Clear communication</b><br><sub>You always know where the project stands.</sub></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><b>I do not disappear after launch</b><br><sub>Post-launch support is part of every client project.</sub></td>
+  </tr>
+</table>
+
+<br>
+
+## <img src="assets/icons/now.svg" width="30" height="30" align="top" alt=""> Right Now I Am Working On
 
 - New WordPress and WooCommerce plugins
 - Growing Naimur Dev Store and its licensing infrastructure
@@ -267,23 +342,25 @@ Page builders are great until the project outgrows them. That is where most of m
 
 <br>
 
-## Let's Talk
+## <img src="assets/icons/contact.svg" width="30" height="30" align="top" alt=""> Let's Talk
 
 <p align="center">
-  <a href="mailto:support@naimurrahmannahid.com"><img src="https://img.shields.io/badge/EMAIL-SUPPORT%40NAIMURRAHMANNAHID.COM-B91C1C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=475569" alt="Email Naimur Rahman Nahid at support@naimurrahmannahid.com"></a>
+  <a href="mailto:support@naimurrahmannahid.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/links/email-dark.svg"><img src="assets/links/email-light.svg" alt="Email support@naimurrahmannahid.com" height="96"></picture></a>
+  <a href="https://naimurrahmannahid.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/links/portfolio-dark.svg"><img src="assets/links/portfolio-light.svg" alt="Portfolio website" height="96"></picture></a>
+  <a href="https://www.naimurdevstore.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/links/store-dark.svg"><img src="assets/links/store-light.svg" alt="Naimur Dev Store" height="96"></picture></a>
+  <a href="https://profiles.wordpress.org/naimurrahmannahid/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/links/wordpress-dark.svg"><img src="assets/links/wordpress-light.svg" alt="WordPress.org profile" height="96"></picture></a>
+  <a href="https://linkedin.com/in/naimurrahmannahid"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/links/linkedin-dark.svg"><img src="assets/links/linkedin-light.svg" alt="LinkedIn profile" height="96"></picture></a>
+  <a href="https://www.fiverr.com/wordpressnaimur"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/links/fiverr-dark.svg"><img src="assets/links/fiverr-light.svg" alt="Fiverr profile" height="96"></picture></a>
+  <a href="https://www.upwork.com/freelancers/~01f469b3013785c827"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/links/upwork-dark.svg"><img src="assets/links/upwork-light.svg" alt="Upwork profile" height="96"></picture></a>
 </p>
-<p align="center">
-  <a href="https://naimurrahmannahid.com"><img src="https://img.shields.io/badge/PORTFOLIO-NAIMURRAHMANNAHID.COM-6D28D9?style=for-the-badge&labelColor=475569" alt="Visit the portfolio website naimurrahmannahid.com"></a>
-  <a href="https://www.naimurdevstore.com/"><img src="https://img.shields.io/badge/STORE-NAIMURDEVSTORE.COM-B45309?style=for-the-badge&labelColor=475569" alt="Visit Naimur Dev Store at www.naimurdevstore.com"></a>
-</p>
-<p align="center">
-  <a href="https://profiles.wordpress.org/naimurrahmannahid/"><img src="https://img.shields.io/badge/WordPress.org-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress.org profile"></a>
-  <a href="https://linkedin.com/in/naimurrahmannahid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"></a>
-  <a href="https://www.fiverr.com/wordpressnaimur"><img src="https://img.shields.io/badge/Fiverr-047857?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr profile"></a>
-  <a href="https://www.upwork.com/freelancers/~01f469b3013785c827"><img src="https://img.shields.io/badge/Upwork-15803D?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork profile"></a>
-</p>
+
+<p align="center"><sub>support@naimurrahmannahid.com &nbsp;|&nbsp; Dhaka, Bangladesh &nbsp;|&nbsp; GMT+6</sub></p>
 
 <br>
+
+<p align="center">
+  <img src="assets/icons/rocket.svg" width="52" height="52" alt="">
+</p>
 
 <h2 align="center">Have a project that needs more than a template?</h2>
 
