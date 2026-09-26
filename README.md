@@ -1,4 +1,4 @@
-![Naimur Rahman Nahid](https://github.com/user-attachments/assets/c01d5dae-71d8-4d5a-816b-4ffbd21fe29f)
+![Naimur Rahman Nahid](https://github.com/user-attachments/assets/1889e861-ed65-4dd4-bd90-0c8d62661c20)
 # Naimur Rahman Nahid - WordPress Developer
 
 <p align="center">
