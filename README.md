@@ -1,8 +1,5 @@
-<!-- Banner: upload your image to assets/github-profile-banner.png, then remove these comment markers.
-<p align="center">
-  <img src="./assets/github-profile-banner.png" alt="Naimur Rahman Nahid, WordPress, WooCommerce and Full-Stack Web Developer from Dhaka, Bangladesh" width="100%">
-</p>
--->
+![Naimur Rahman Nahid](https://github.com/user-attachments/assets/c01d5dae-71d8-4d5a-816b-4ffbd21fe29f)
+# Naimur Rahman Nahid - WordPress Developer
 
 <p align="center">
   <a href="https://naimurrahmannahid.com">
