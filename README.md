@@ -1,5 +1,5 @@
 ![Naimur Rahman Nahid](https://github.com/user-attachments/assets/1889e861-ed65-4dd4-bd90-0c8d62661c20)
-# Naimur Rahman Nahid - WordPress Developer
+<h1 align="center">Naimur Rahman Nahid - WordPress Developer</h1>
 
 <p align="center">
   <a href="https://naimurrahmannahid.com">
@@ -56,18 +56,18 @@ When I am not building for clients, I am shipping my own products. Three of my p
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Naimurrahmannahid&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=A78BFA&text_color=E6EDF3&icon_color=60A5FA&ring_color=A78BFA&border_color=30363D&border_radius=10">
-    <img src="https://github-readme-stats.vercel.app/api?username=Naimurrahmannahid&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=FFFFFF&title_color=6D28D9&text_color=1F2937&icon_color=1D4ED8&ring_color=6D28D9&border_color=D0D7DE&border_radius=10" alt="GitHub statistics for Naimur Rahman Nahid: total stars, commits, pull requests, issues and contributions" height="175">
+    <img src="https://github-readme-stats.vercel.app/api?username=Naimurrahmannahid&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=FFFFFF&title_color=6D28D9&text_color=1F2937&icon_color=1D4ED8&ring_color=6D28D9&border_color=D0D7DE&border_radius=10" alt="GitHub statistics for Naimur Rahman Nahid: total stars, commits, pull requests, issues and contributions">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Naimurrahmannahid&layout=compact&langs_count=6&bg_color=0D1117&title_color=A78BFA&text_color=E6EDF3&border_color=30363D&border_radius=10">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naimurrahmannahid&layout=compact&langs_count=6&bg_color=FFFFFF&title_color=6D28D9&text_color=1F2937&border_color=D0D7DE&border_radius=10" alt="Most used languages across Naimur Rahman Nahid's public repositories" height="175">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naimurrahmannahid&layout=compact&langs_count=6&bg_color=FFFFFF&title_color=6D28D9&text_color=1F2937&border_color=D0D7DE&border_radius=10" alt="Most used languages across Naimur Rahman Nahid's public repositories">
   </picture>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Naimurrahmannahid&background=0D1117&border=30363D&stroke=30363D&ring=A78BFA&fire=60A5FA&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&border_radius=10">
-    <img src="https://streak-stats.demolab.com?user=Naimurrahmannahid&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=6D28D9&fire=1D4ED8&currStreakNum=111827&sideNums=111827&currStreakLabel=6D28D9&sideLabels=1F2937&dates=57606A&border_radius=10" alt="GitHub contribution streak for Naimur Rahman Nahid: total contributions, current streak and longest streak" width="600">
+    <img src="https://streak-stats.demolab.com?user=Naimurrahmannahid&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=6D28D9&fire=1D4ED8&currStreakNum=111827&sideNums=111827&currStreakLabel=6D28D9&sideLabels=1F2937&dates=57606A&border_radius=10" alt="GitHub contribution streak for Naimur Rahman Nahid: total contributions, current streak and longest streak">
   </picture>
 </p>
 
@@ -281,36 +281,34 @@ Page builders are great until the project outgrows them. That is where most of m
 
 ## <img src="assets/icons/toolbox.svg" width="30" height="30" align="top" alt=""> My Toolbox
 
-<p align="center"><b>Frontend</b></p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/stack/frontend-dark.svg">
-    <img src="assets/stack/frontend-light.svg" alt="Frontend: HTML5, CSS3, JavaScript, Next.js, Tailwind CSS" height="96">
-  </picture>
+<p align="center"><b>Frontend</b><br>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/stack/html5-dark.svg"><img src="assets/stack/html5-light.svg" alt="HTML5" width="116"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/stack/css3-dark.svg"><img src="assets/stack/css3-light.svg" alt="CSS3" width="116"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/stack/javascript-dark.svg"><img src="assets/stack/javascript-light.svg" alt="JavaScript" width="116"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/stack/next-js-dark.svg"><img src="assets/stack/next-js-light.svg" alt="Next.js" width="116"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/stack/tailwind-dark.svg"><img src="assets/stack/tailwind-light.svg" alt="Tailwind CSS" width="116"></picture>
 </p>
 
-<p align="center"><b>Backend & APIs</b></p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/stack/backend-dark.svg">
-    <img src="assets/stack/backend-light.svg" alt="Backend and APIs: PHP, WordPress, WooCommerce, REST API, GraphQL, WPGraphQL" height="96">
-  </picture>
+<p align="center"><b>Backend & APIs</b><br>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/stack/php-dark.svg"><img src="assets/stack/php-light.svg" alt="PHP" width="116"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/stack/wordpress-dark.svg"><img src="assets/stack/wordpress-light.svg" alt="WordPress" width="116"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/stack/woocommerce-dark.svg"><img src="assets/stack/woocommerce-light.svg" alt="WooCommerce" width="116"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/stack/rest-api-dark.svg"><img src="assets/stack/rest-api-light.svg" alt="REST API" width="116"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/stack/graphql-dark.svg"><img src="assets/stack/graphql-light.svg" alt="GraphQL" width="116"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/stack/wpgraphql-dark.svg"><img src="assets/stack/wpgraphql-light.svg" alt="WPGraphQL" width="116"></picture>
 </p>
 
-<p align="center"><b>Platforms & Data</b></p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/stack/platforms-dark.svg">
-    <img src="assets/stack/platforms-light.svg" alt="Platforms and data: Supabase, Shopify, Git, GitHub" height="96">
-  </picture>
+<p align="center"><b>Platforms & Data</b><br>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/stack/supabase-dark.svg"><img src="assets/stack/supabase-light.svg" alt="Supabase" width="116"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/stack/shopify-dark.svg"><img src="assets/stack/shopify-light.svg" alt="Shopify" width="116"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/stack/git-dark.svg"><img src="assets/stack/git-light.svg" alt="Git" width="116"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/stack/github-dark.svg"><img src="assets/stack/github-light.svg" alt="GitHub" width="116"></picture>
 </p>
 
-<p align="center"><b>WordPress Builders</b></p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/stack/builders-dark.svg">
-    <img src="assets/stack/builders-light.svg" alt="WordPress builders: Elementor, Divi, WPBakery" height="96">
-  </picture>
+<p align="center"><b>WordPress Builders</b><br>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/stack/elementor-dark.svg"><img src="assets/stack/elementor-light.svg" alt="Elementor" width="116"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/stack/divi-dark.svg"><img src="assets/stack/divi-light.svg" alt="Divi" width="116"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/stack/wpbakery-dark.svg"><img src="assets/stack/wpbakery-light.svg" alt="WPBakery" width="116"></picture>
 </p>
 
 <br>
@@ -345,13 +343,13 @@ Page builders are great until the project outgrows them. That is where most of m
 ## <img src="assets/icons/contact.svg" width="30" height="30" align="top" alt=""> Let's Talk
 
 <p align="center">
-  <a href="mailto:support@naimurrahmannahid.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/links/email-dark.svg"><img src="assets/links/email-light.svg" alt="Email support@naimurrahmannahid.com" height="96"></picture></a>
-  <a href="https://naimurrahmannahid.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/links/portfolio-dark.svg"><img src="assets/links/portfolio-light.svg" alt="Portfolio website" height="96"></picture></a>
-  <a href="https://www.naimurdevstore.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/links/store-dark.svg"><img src="assets/links/store-light.svg" alt="Naimur Dev Store" height="96"></picture></a>
-  <a href="https://profiles.wordpress.org/naimurrahmannahid/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/links/wordpress-dark.svg"><img src="assets/links/wordpress-light.svg" alt="WordPress.org profile" height="96"></picture></a>
-  <a href="https://linkedin.com/in/naimurrahmannahid"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/links/linkedin-dark.svg"><img src="assets/links/linkedin-light.svg" alt="LinkedIn profile" height="96"></picture></a>
-  <a href="https://www.fiverr.com/wordpressnaimur"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/links/fiverr-dark.svg"><img src="assets/links/fiverr-light.svg" alt="Fiverr profile" height="96"></picture></a>
-  <a href="https://www.upwork.com/freelancers/~01f469b3013785c827"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/links/upwork-dark.svg"><img src="assets/links/upwork-light.svg" alt="Upwork profile" height="96"></picture></a>
+  <a href="mailto:support@naimurrahmannahid.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/links/email-dark.svg"><img src="assets/links/email-light.svg" alt="Email support@naimurrahmannahid.com" width="120"></picture></a>
+  <a href="https://naimurrahmannahid.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/links/portfolio-dark.svg"><img src="assets/links/portfolio-light.svg" alt="Portfolio website" width="120"></picture></a>
+  <a href="https://www.naimurdevstore.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/links/store-dark.svg"><img src="assets/links/store-light.svg" alt="Naimur Dev Store" width="120"></picture></a>
+  <a href="https://profiles.wordpress.org/naimurrahmannahid/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/links/wordpress-dark.svg"><img src="assets/links/wordpress-light.svg" alt="WordPress.org profile" width="120"></picture></a>
+  <a href="https://linkedin.com/in/naimurrahmannahid"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/links/linkedin-dark.svg"><img src="assets/links/linkedin-light.svg" alt="LinkedIn profile" width="120"></picture></a>
+  <a href="https://www.fiverr.com/wordpressnaimur"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/links/fiverr-dark.svg"><img src="assets/links/fiverr-light.svg" alt="Fiverr profile" width="120"></picture></a>
+  <a href="https://www.upwork.com/freelancers/~01f469b3013785c827"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naimurrahmannahid/Naimurrahmannahid/main/assets/links/upwork-dark.svg"><img src="assets/links/upwork-light.svg" alt="Upwork profile" width="120"></picture></a>
 </p>
 
 <p align="center"><sub>support@naimurrahmannahid.com &nbsp;|&nbsp; Dhaka, Bangladesh &nbsp;|&nbsp; GMT+6</sub></p>
