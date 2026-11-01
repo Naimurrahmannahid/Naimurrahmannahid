@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/EXPERIENCE-4%2B%20YEARS-6D28D9?style=for-the-badge&labelColor=475569" alt="Professional experience in years, since November 2021">
+  <img src="https://img.shields.io/badge/EXPERIENCE-5%2B%20YEARS-6D28D9?style=for-the-badge&labelColor=475569" alt="Professional experience in years, since November 2021">
   <img src="https://img.shields.io/badge/PROJECTS-300%2B%20DELIVERED-1D4ED8?style=for-the-badge&labelColor=475569" alt="300+ projects delivered">
   <img src="https://img.shields.io/badge/CLIENTS-10%2B%20COUNTRIES-0F766E?style=for-the-badge&labelColor=475569" alt="Clients in 10+ countries">
   <img src="https://img.shields.io/badge/WORDPRESS.ORG-3%20PLUGINS-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=475569" alt="3 plugins published on WordPress.org">
@@ -43,7 +43,7 @@
 
 I am **Naimur Rahman Nahid**, a **WordPress developer and full-stack web developer** from **Dhaka, Bangladesh**.
 
-I started building for clients in **November 2021**. <!--YEARS-->4<!--/YEARS-->+ years and **300+ projects** later, across **10+ countries**, I have learned one thing: most businesses do not need another theme or another plugin stack. They need something that fits the way they actually work. That is what I build, through Fiverr, Upwork, Kwork and direct partnerships.
+I started building for clients in **November 2021**. <!--YEARS-->5<!--/YEARS-->+ years and **300+ projects** later, across **10+ countries**, I have learned one thing: most businesses do not need another theme or another plugin stack. They need something that fits the way they actually work. That is what I build, through Fiverr, Upwork, Kwork and direct partnerships.
 
 When I am not building for clients, I am shipping my own products. Three of my plugins are live on WordPress.org, and more live at **[Naimur Dev Store](https://www.naimurdevstore.com/)**.
 
@@ -93,7 +93,7 @@ When I am not building for clients, I am shipping my own products. Three of my p
   <tr>
     <td align="center" width="25%">
       <img src="assets/icons/n-years.svg" width="44" height="44" alt="">
-      <h1><!--YEARS-->4<!--/YEARS-->+</h1>
+      <h1><!--YEARS-->5<!--/YEARS-->+</h1>
       <b>Years building</b><br><sub>since Nov 2021</sub>
     </td>
     <td align="center" width="25%">
